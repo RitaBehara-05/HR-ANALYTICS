@@ -2,7 +2,7 @@
 This project features two interactive HR Analytics Dashboards built using Excel, designed to provide data-driven insights into employee performance and attrition trends. These dashboards help HR professionals and business leaders make informed decisions by identifying key workforce trends, improving employee retention strategies, and optimizing talent management.  
 🚀 Key Features
 
-📉 1. Employee Attrition Analysis Dashboard
+ 📉 1. Employee Attrition Analysis Dashboard
 This dashboard focuses on understanding the attrition rate within the organization and identifying the key factors driving employee turnover.  
 
 🔹 Overall Attrition Metrics:  
@@ -22,7 +22,7 @@ This dashboard focuses on understanding the attrition rate within the organizati
 - A   trend chart   visualizes the attrition pattern over time, helping to detect cyclical trends.  
 - Filters allow   department-wise and gender-based   analysis of attrition, making it easier to identify specific problem areas.  
 
-      📊 2. Employee Performance Analysis Dashboard    
+ 📊 2. Employee Performance Analysis Dashboard    
 This dashboard evaluates employee performance across multiple dimensions, helping HR teams assess productivity levels and factors affecting workforce efficiency.  
 
 🔹   Overall Employee Performance Metrics  :  
